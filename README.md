@@ -13,4 +13,8 @@ This project demonstrates MNIST handwritten digit recognition on the Cora-Z7 FPG
 
 # 1. Dataset
 Download and unzip the dataset: https://nextcloud.sdu.dk/index.php/s/wZg4FLSxgiigJTL
-# 1. Train and extract weights 
+# 2. Train and extract weights 
+# 3. Create HLS Project in Vitis HLS
+# 4. Create Vivado Project 
+# 5. Create Xilinx Vitis Project 
+# 6. Test & Verify
