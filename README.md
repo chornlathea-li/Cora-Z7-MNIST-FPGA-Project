@@ -6,5 +6,10 @@ Download and unzip the dataset: https://nextcloud.sdu.dk/index.php/s/wZg4FLSxgii
 
 ## Hardware
 
-- **FPGA Board:** Digilent Cora-Z7 07S  
-- **FPGA Chip:** Zynq-7007S 
+- **FPGA Board:** Digilent Cora-Z7  
+- **FPGA Chip:** Zynq-7007S
+- 
+## Environment
+
+- **Vitis HLS, Vivado, Xilinx Vitis:** 2021.1  
+- **OS Tested:** Windows 11 
