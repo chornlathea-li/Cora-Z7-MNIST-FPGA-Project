@@ -3,3 +3,8 @@ This project demonstrates MNIST handwritten digit recognition on the Cora-Z7 FPG
 
 # Dataset
 Download and unzip the dataset: https://nextcloud.sdu.dk/index.php/s/wZg4FLSxgiigJTL
+
+## Hardware
+
+- **FPGA Board:** Digilent Cora-Z7 07S  
+- **FPGA Chip:** Zynq-7007S 
