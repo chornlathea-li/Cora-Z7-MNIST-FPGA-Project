@@ -13,4 +13,4 @@ This project demonstrates MNIST handwritten digit recognition on the Cora-Z7 FPG
 
 # 1. Dataset
 Download and unzip the dataset: https://nextcloud.sdu.dk/index.php/s/wZg4FLSxgiigJTL
-# 1. Train network and extract weights with train_cora_z7.py
+# 1. Train and extract weights 
